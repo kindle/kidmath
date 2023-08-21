@@ -72,4 +72,8 @@ export class Tab1Page {
     this.showAnswer = ! this.showAnswer;
   }
 
+  print(){
+    window.print();
+  }
+
 }

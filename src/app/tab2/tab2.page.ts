@@ -66,4 +66,8 @@ export class Tab2Page {
     this.showAnswer = ! this.showAnswer;
   }
 
+
+  print(){
+    window.print();
+  }
 }
