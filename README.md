@@ -11,4 +11,5 @@ Demo: https://kidmath.reddah.com/
 可以打印题目和结果，方便对比判对错。
 
 
-https://github.com/kindle/kidmath/blob/main/src/assets/demo1.png
+![Image text](https://github.com/kindle/kidmath/blob/main/src/assets/demo1.png)
+
